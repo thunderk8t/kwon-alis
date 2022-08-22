@@ -1,3 +1,5 @@
+Just a dump of my little configs of alis, which i call kwon-alis. original doc below.
+
 # alis
 
 ![Arch Linux](https://raw.githubusercontent.com/picodotdev/alis/master/images/archlinux-badge.svg)
@@ -332,5 +334,3 @@ https://www.archlinux.org/download/
 * https://wiki.archlinux.org/title/Xfce
 * https://wiki.archlinux.org/title/XFS
 * https://wiki.archlinux.org/title/Xorg
-
-# kwon-alis
